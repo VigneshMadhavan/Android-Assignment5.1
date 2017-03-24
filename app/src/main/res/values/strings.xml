@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A5.2</string>
+
+    <string name="text">Menu</string>
+
+    <string name="menu_1">Text Color</string>
+
+    <string name="Red">Red</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+
+</resources>
